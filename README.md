@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @carlosmacgil  
-- 👀 I’m interested in web development, software engineering, and traveling.  
-- 🌱 I’m currently learning JavaScript, Angular, Spring Boot, and advanced web technologies.  
-- 💞️ I’m looking to collaborate on open-source projects related to web development, especially those using Java or Angular.  
-- 📫 How to reach me: maciasgilc@gmail.com
-- 😄 Pronouns: he/him  
+# Hey, I'm Carlos 👋
 
+Web developer & Odoo consultant based in Valencia 🇪🇸.  
+I build modern web apps with Angular, Java & Spring Boot, and I'm currently working at **Tic2Web** implementing custom business solutions.
+
+## 🛠️ Tech Stack
+
+**Frontend**
+`Angular` `TypeScript` `HTML5` `CSS3` `Tailwind` `Bootstrap`
+
+**Backend & DB**
+`Java` `Spring Boot` `SQL` `WordPress`
+
+**Tools**
+`Git` `Odoo` `Stripe` `AI Automations`
+
+## 🌐 Languages
+
+- 🇪🇸 Spanish — Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English — C1
+
+## 📬 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosmaciasg-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carlosmaciasg)
+[![Email](https://img.shields.io/badge/Email-maciasgilc@gmail.com-red?style=flat&logo=gmail)](mailto:maciasgilc@gmail.com)
 
 <!---
 carlosmacgil/carlosmacgil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
